@@ -9,3 +9,7 @@ cd target/dist
 unzip *
 chmod 755 ./start
 ./start
+
+
+docker-compose up -d --build
+
