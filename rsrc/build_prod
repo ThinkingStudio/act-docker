@@ -1,0 +1,18 @@
+#!/bin/sh
+
+#todo: how do we handle this failing?
+service act stop
+
+#DOCKER SPECIFIC PATH
+cd /usr/local/act/
+if [ ! -f /usr/local/act/target/dist/start ]; then
+    mvn clean package
+    cd /usr/local/act/target/dist
+    unzip *.zip
+else
+    cd /usr/local/act/target/dist
+fi
+
+cp service.sh /etc/init.d/act
+#chkconfig act on
+update-rc.d act defaults

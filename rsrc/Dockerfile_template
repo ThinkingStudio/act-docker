@@ -1,6 +1,6 @@
 FROM openjdk:8
 RUN apt-get update && apt-get -y install maven && apt-get -y install unzip
 ADD . /usr/local/act
-RUN cd /usr/local/act/ && mvn clean compile && chmod 755 run_dev && chmod 755 run_prod
+RUN cd /usr/local/act/ && build_STATE && chmod 755 run_dev && chmod 755 run_prod && chmod 755 build_dev.sh && chmod 755 build_prod.sh && chmod 755 service.sh && chmod 755 service-runner.sh
 CMD [""]
 ENTRYPOINT ["/usr/local/act/run_STATE"]

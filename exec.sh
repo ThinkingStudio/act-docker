@@ -79,12 +79,19 @@ fi
 
 sed "s/STATE/${TARGET}/" rsrc/Dockerfile_template >temp/${PROJECTPATH}/Dockerfile
 cp rsrc/docker-compose.yml temp/${PROJECTPATH}/docker-compose.yml
+
 #remove default startup scripts
 rm temp/${PROJECTPATH}/run_dev
 rm temp/${PROJECTPATH}/run_prod
 #replace with Docker specific
 cp rsrc/run_dev temp/${PROJECTPATH}/
 cp rsrc/run_prod temp/${PROJECTPATH}/
+cp rsrc/build_dev temp/${PROJECTPATH}/
+cp rsrc/build_prod temp/${PROJECTPATH}/
+cp rsrc/service.sh temp/${PROJECTPATH}/
+cp rsrc/service-runner.sh temp/${PROJECTPATH}/
+
+#todo: we should copy the standard Node.JS configuration pattern here too! 
 
 echo "Composing and starting container..."
 cd temp/${PROJECTPATH}/
