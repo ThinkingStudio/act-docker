@@ -1,0 +1,9 @@
+#/bin/sh
+sudo service yabonza stop
+rm -rf /home/yabonza/svc
+mkdir /home/yabonza/svc
+cp target/dist/*.zip /home/yabonza/svc
+cd /home/yabonza/svc
+unzip *.zip
+sudo service yabonza start
+

@@ -1,0 +1,3 @@
+sudo cp yabonza.service /etc/init.d/yabonza
+#sudo chkconfig yabonza on
+sudo update-rc.d yabonza defaults

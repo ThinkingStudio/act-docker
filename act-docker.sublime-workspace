@@ -1,0 +1,472 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lut",
+				"lutMenuOffsets"
+			],
+			[
+				"iP",
+				"iPageUp"
+			],
+			[
+				"iSc",
+				"iScrollLeft"
+			],
+			[
+				"lin",
+				"screenLinesUsed"
+			],
+			[
+				"scr",
+				"scrollUp"
+			],
+			[
+				"v",
+				"vScreenWidth"
+			],
+			[
+				"red",
+				"redraw"
+			],
+			[
+				"vCur",
+				"vCursorX"
+			],
+			[
+				"vCursor",
+				"vCursorYHi"
+			],
+			[
+				"vC",
+				"vCursorYLo"
+			],
+			[
+				"vCu",
+				"vCursorX"
+			],
+			[
+				"scree",
+				"screenLinesUsed"
+			],
+			[
+				"screen",
+				"screenRamStart"
+			],
+			[
+				"ev",
+				"evLoopOk"
+			],
+			[
+				"no_",
+				"no_antialias"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 199.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cinj/Development/act-docker"
+	],
+	"file_history":
+	[
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/modules.sublime-project",
+		"/Users/cinj/joe@pixolut.com/Client Folders/McGrath/Projects/7. ETHAN MIGRATION/McGrath AWS Notes.txt",
+		"/Users/cinj/joe@pixolut.com/Strategic/Business Plan 2017/IBM Partner Positioning.txt",
+		"/Users/cinj/joe@pixolut.com/Strategic/Business Plan 2017/Value Investing Solution Design.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/2. Innovation Execution/1. Introduction to Agile/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/2. Innovation Execution/5. Rituals of the Scrum/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/2. Innovation Execution/6. Estimation/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/1. Innovation Leadership/7. Introduction to Agile/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/1. Innovation Leadership/6. Lean Innovation Management/notes.txt",
+		"/Applications/WPMacApp.app/Contents/Resources/Files/MacOS.sheepvm/prefs-wpmacapp",
+		"/Users/cinj/joe@pixolut.com/Education/Marketing Material/quotes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Writing/Brief summary of how I got to now.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Writing/agile notes.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/McGrath/Projects/8. Agent App Version 2/board-notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Writing/actionable-metrics.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Marketing Material/BROCHURE/raw.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/2. Innovation Execution/4. Epics vs Stories vs Tasks/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/2. Innovation Execution/3. Artifacts of the Scrum/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/2. Innovation Execution/2. Roles in Scrum/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/2. Innovation Execution/6. Sprint Planning/notes.txt",
+		"/Users/cinj/Desktop/Agent App feedback.txt",
+		"/Users/cinj/Desktop/Munich RE Response.txt",
+		"/Users/cinj/Desktop/System for the CRM.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/1. Innovation Leadership/5. Managing Innovation - Aeroplane Factory/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/1. Innovation Leadership/4. Horizons of Innovation/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Program material overview.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Management/SCRUM/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Frameworks/Design Thinking/3M 3 Hour Session Outline.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Frameworks/Creative Problem Solving/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Frameworks/Design Thinking/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Management/Lean Innovation Management/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Visualisation Tools/UML/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/Horizons of Innovation/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/Horizons of Innovation/exercises.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/Emerson Health/2. Tender Response/reference.txt",
+		"/Users/cinj/joe@pixolut.com/Marketing/STUDIO/Example of Thinking.Group engagement.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/Emerson Health/tender response.txt",
+		"/Users/cinj/joe@pixolut.com/Marketing/STUDIO/TA CASE STUDY.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/McGrath/Projects/7. ETHAN MIGRATION/Laundry List for McGrath.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/Emerson Health/Tender Working Files/notes.txt",
+		"/Users/cinj/Library/Application Support/Sublime Text 3/Packages/LaTeX Word Count/LaTeXWordCount.sublime-settings",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/Managing Innovation - Aeroplane Factory/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/Why innovate [v01]/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/Psychological Safety/exercises.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/Willingness and Ability [V01]/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/The Six Paradoxes of Innovation [v01]/exercises.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/The Six Paradoxes of Innovation [v01]/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/Psychological Safety/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/McGrath/Projects/2 team workshops/mcgrath-user-list.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/McGrath/Projects/2 team workshops/intro-email.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/McGrath/Projects/5 UX prototyping and workflow/Notes from Design Session with John",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/Why innovate [v01]/Why Innovate-R03.pdf",
+		"/Users/cinj/joe@pixolut.com/Education/Design Assets/website-assets/ICEGRAM_CODE.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/Horizons of Innovation/3M 3 Hour Session Outline.txt",
+		"/Users/cinj/Development/text64/document.asm",
+		"/Users/cinj/Development/text64/menu_rsrc.asm",
+		"/Users/cinj/Development/text64/input.asm",
+		"/Users/cinj/Development/text64/macros.asm",
+		"/Users/cinj/Development/text64/events.asm",
+		"/Users/cinj/Development/text64/test_menubar.asm",
+		"/Users/cinj/Development/text64/menubar.asm",
+		"/Users/cinj/Development/text64/draw.asm",
+		"/Users/cinj/Development/text64/defines.asm",
+		"/Users/cinj/Development/text64/gui.asm",
+		"/Users/cinj/Development/act-demo-apps/todo-morphia/src/main/java/demo/todo/morphia/Todo.java",
+		"/Users/cinj/Development/act-demo-apps/todo-morphia/src/main/java/demo/todo/morphia/TodoItem.java",
+		"/Users/cinj/Development/thinking-school-engine/src/main/resources/questions.json",
+		"/Users/cinj/Development/thinking-school-engine/src/main/resources/solutions.json",
+		"/Users/cinj/Development/thinking-school-engine/thinking-school-engine.iml",
+		"/Users/cinj/Development/thinking-school-engine/src/main/resources/expertmatrix.json",
+		"/Users/cinj/Development/act-demo-apps/injection/src/main/java/demo/injection/InjectionApp.java",
+		"/Users/cinj/Development/act-demo-apps/fullstack-app/README.md",
+		"/Users/cinj/joe@pixolut.com/Client Folders/T Rowe Price/T. Rowe Price Notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Course Design/3M 3 Hour Session Outline.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/QIC/qicinnovation/email-template.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Course Design/QIC Notes.txt",
+		"/Users/cinj/joe@pixolut.com/today.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Final structure for online lesson modules",
+		"/Users/cinj/Desktop/today.txt",
+		"/Users/cinj/Desktop/index.html",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/Why innovate/notes.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/3M/Thinking.School/intro-email.txt",
+		"/Users/cinj/joe@pixolut.com/Education/_MODULES/Leadership/Circles vs Lines/introduction.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Video Scripts/November Scripts.txt",
+		"/Users/cinj/joe@pixolut.com/YabonzaStories.txt",
+		"/Volumes/JOE CINCOTT/QIC Notes.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Course Design/Diploma Course Design.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Course Design/Session outline - McGrath",
+		"/Users/cinj/joe@pixolut.com/Education/Messages and Email Templates/FACEBOOK AND MEETUP DETAILS.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Design Assets/website-assets/Plugins/WP Fusion License.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Course Design/ThinkingSchoolSixWeekCourse.txt",
+		"/Users/cinj/joe@pixolut.com/Sales/background.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Messages and Email Templates/infusion_form.htm",
+		"/Users/cinj/joe@pixolut.com/Education/Messages and Email Templates/infusionsoft-form.html",
+		"/Users/cinj/joe@pixolut.com/Education/Launch Planning/Course Overview - Four Week.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Launch Planning/Course Overview - Full.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Launch Planning/Course Overview - Day.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Launch Planning/hot-potato-sequence.txt",
+		"/Users/cinj/Desktop/CDN IP Blocks.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/Connectable/Legal doc temp/Untitled.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Messages and Email Templates/Cold Email.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Course Design/Three layers of innovation leadership",
+		"/Users/cinj/joe@pixolut.com/Education/Messages and Email Templates/Great to talk with you today.",
+		"/Users/cinj/joe@pixolut.com/_STANDUP.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/UOW/EXPERIENCE_DESIGN_PROJECT/RFP_RESPONSE/temp.txt",
+		"/Users/cinj/Desktop/tmp.txt",
+		"/Users/cinj/joe@pixolut.com/Education/ThinkingHacks/Version 1/Thinking Hacks.txt",
+		"/Users/cinj/joe@pixolut.com/Education/ThinkingHacks/Research Points.txt",
+		"/Users/cinj/joe@pixolut.com/Education/ThinkingHacks/Thinking Hacks 2.txt",
+		"/Users/cinj/joe@pixolut.com/Education/ThinkingHacks/archive/Thinking Hacks.txt",
+		"/Users/cinj/joe@pixolut.com/Education/ThinkingHacks/archive/Thinking Hacks copy.txt",
+		"/Users/cinj/joe@pixolut.com/weekplan.txt",
+		"/Users/cinj/joe@pixolut.com/Education/ThinkingHacks/Strategy for Thinking School.txt",
+		"/Users/cinj/joe@pixolut.com/Education/ThinkingHacks/ThinkingSchoolSixWeekCourse.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/Pixolut/presentations/Group Master/updates-to-creds.txt",
+		"/Users/cinj/joe@pixolut.com/Education/Video Scripts/Script June 2016.txt",
+		"/Users/cinj/Desktop/SALES PLANNING Notes.txt",
+		"/Users/cinj/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cinj/Desktop/week plan.txt",
+		"/Users/cinj/joe@pixolut.com/Education/ThinkingHacks/Thinking Hacks.txt",
+		"/Users/cinj/joe@pixolut.com/Education/ThinkingHacks/Thinking School Topics May 2016.txt",
+		"/Users/cinj/Desktop/NOTES.txt",
+		"/Users/cinj/Desktop/Showcase Notes 2:5:2016:",
+		"/Users/cinj/joe@pixolut.com/Client Folders/UOW/EXPERIENCE_DESIGN_PROJECT/response-text.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/Connectable/Story-notes-analytics.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/Connectable/Connectable 8 showcase notes.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/Connectable/Connectable Notes - Apr.txt",
+		"/Users/cinj/joe@pixolut.com/Client Folders/Connectable/Grooming.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\t",
+			"developer",
+			"freelancer",
+			"freelancers",
+			"contractors",
+			"  ",
+			"developers\\n",
+			"\\n",
+			"\\\\n",
+			"\\n",
+			"</li>",
+			"<li>",
+			"</ol>",
+			"<ol>",
+			"\"Not sure\" \t\"",
+			"\"Yes!\" \t\"",
+			"\"No\" \t\"",
+			"its... \t",
+			"\"Yes\" \t\"",
+			"\"Not sure\" \t\"",
+			"\"Yes!\" \t\"",
+			"\"No\" \t\"",
+			"its... \t",
+			"caret",
+			"\\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"contractor",
+			"developer",
+			"freelancer",
+			"freelancers",
+			" ",
+			" contractors\\n",
+			" developers\\n",
+			"\\n",
+			"\n",
+			"",
+			"\"Not sure: ",
+			"\"Yes!  ",
+			"\"No ",
+			"its...",
+			"\"Yes ",
+			"\"Not sure ",
+			"\"Yes! ",
+			"\"No ",
+			"its... ",
+			"\",\\n\"",
+			"\"\\n\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"platform_settings_was_here": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "act-docker.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/joe@pixolut.com/Thinking Hacks.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

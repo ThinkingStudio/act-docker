@@ -1,0 +1,53 @@
+#!/bin/sh
+#
+# Startup script for the Yabonza backend service
+#
+# chkconfig: - 85 15
+# processname: yabonza
+
+# Set Tomcat environment.
+YABONZA_USER=yabonza
+LOCKFILE=/var/lock/yabonza
+export PATH=/usr/local/bin:$PATH
+export YABONZA_HOME=/home/yabonza/svc
+export YABONZA_PID=$YABONZA_HOME/yabonza.pid
+export YABONZA_OPTS="-D -Djava.awt.headless=true"
+
+# Source function library.
+. /lib/lsb/init-functions
+
+[ -f $YABONZA_HOME/start ] || exit 0
+
+export PATH=$PATH:/usr/bin:/usr/local/bin
+
+# See how we were called.
+case "$1" in
+  start)
+        # Start daemon.
+        echo -n "Starting Yabonza: "
+        su -p -s /bin/sh $YABONZA_USER -c "cd $YABONZA_HOME && ./start -Dpidfile=$YABONZA_PID"
+        RETVAL=$?
+        echo
+        [ $RETVAL = 0 ] && touch $LOCKFILE
+        ;;
+  stop)
+        # Stop daemons.
+        echo -n "Shutting down Yabonza: "
+        su -p -s /bin/sh $YABONZA_USER -c "kill -9 `cat $YABONZA_PID`"
+        RETVAL=$?
+        echo
+        [ $RETVAL = 0 ] && rm -f $LOCKFILE
+        ;;
+  restart)
+        $0 stop
+        $0 start
+        ;;
+  status)
+        status -p $YABONZA_PID -l $(basename $LOCKFILE) yabonza
+        ;;
+  *)
+        echo "Usage: $0 {start|stop|restart|status}"
+        exit 1
+esac
+
+exit 0
