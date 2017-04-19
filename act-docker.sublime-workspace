@@ -73,6 +73,95 @@
 				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/Z/joe@pixolut.com/Marketing/STUDIO/lead magnet images/copy.txt",
+			"settings":
+			{
+				"buffer_size": 21384,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "bbs.thenexusbbs.com:23\n\nparticlesbbs.dyndns.org:6400\n\nbbs.force9.org:23\n\nnixsteam.sytes.net:23\n\n\n",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Windows",
+				"name": "bbs.thenexusbbs.com:23"
+			}
+		},
+		{
+			"file": "/Z/joe@pixolut.com/Personal/_COMPUTERS/bbs-list-full_Apr_17.txt",
+			"settings":
+			{
+				"buffer_size": 184802,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Windows/System32/drivers/etc/hosts",
+			"settings":
+			{
+				"buffer_size": 841,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "//rackstation/video/installers/Print Server/Setup.ini",
+			"settings":
+			{
+				"buffer_size": 367,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nKick Assembler (C64)\n--------------------\n\n  New in version 1.1.4:\n  - Bug fix! Due to changes in Kick Assembler 4.10 the \"Build and Run\" and \"Build and Run Startup\" commands stopped working.\n    This is now fixed.\n  \n  New in version 1.1.3:\n  - Support for Kick Assembler 4.x (supports for Kick Assembler 3.x discontinued)\n     - Improved error detection. \n       Can now detect several errors at the same time, and show error messages in code\n     - Support for new language features (syntax highlighting)\n     - Updated snippets\n  - Added filetypes .lib as expected filetype\n  \n  Also, news in version 1.1.2:\n  - Added filetypes .inc .s .a as expected filetypes\n  - Both breakpoints and labels to Vice for for build variants Build and Debug and Build and Debug startup\n  - Last version compatible with Kick Assembler 3.x\n  \n  //Swoffa of Noice\n",
+			"settings":
+			{
+				"buffer_size": 898,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Y/babun-install/babun-1.2.0/install.txt",
+			"settings":
+			{
+				"buffer_size": 289,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "//rackstation/video/pitch.txt",
+			"settings":
+			{
+				"buffer_size": 3503,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Z/joe@pixolut.com/Personal/_COMPUTERS/bbs-list-short_Apr_17.txt",
+			"settings":
+			{
+				"buffer_size": 25808,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "yabonza/deploy-sit",
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -136,10 +225,18 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/cinj/Development/act-docker"
+		"/D/Development/act-docker",
+		"/D/Development/act-docker/rsrc",
+		"/D/Development/act-docker/yabonza"
 	],
 	"file_history":
 	[
+		"/F/Alexander.and.the.Terrible,.Horrible,.No.Good,.Very.Bad.Day.2014.720p.BluRay.x264.YIFY_xvid.avi",
+		"/C/Users/pixol/Desktop/temp/GAMES/tdd-games-cd-2010-03-21/tdd-games-cd/xlfiles.txt",
+		"/C/Users/pixol/Desktop/temp/GAMES/druid_note.txt",
+		"/F/ARCHIVED/SVN_ROOT/README.txt",
+		"/Y/Ampps/php/php.ini",
+		"/Y/babun-install/babun-1.2.0/install.txt",
 		"/Users/cinj/joe@pixolut.com/Education/_MODULES/modules.sublime-project",
 		"/Users/cinj/joe@pixolut.com/Client Folders/McGrath/Projects/7. ETHAN MIGRATION/McGrath AWS Notes.txt",
 		"/Users/cinj/joe@pixolut.com/Strategic/Business Plan 2017/IBM Partner Positioning.txt",
@@ -261,13 +358,7 @@
 		"/Users/cinj/Desktop/week plan.txt",
 		"/Users/cinj/joe@pixolut.com/Education/ThinkingHacks/Thinking Hacks.txt",
 		"/Users/cinj/joe@pixolut.com/Education/ThinkingHacks/Thinking School Topics May 2016.txt",
-		"/Users/cinj/Desktop/NOTES.txt",
-		"/Users/cinj/Desktop/Showcase Notes 2:5:2016:",
-		"/Users/cinj/joe@pixolut.com/Client Folders/UOW/EXPERIENCE_DESIGN_PROJECT/response-text.txt",
-		"/Users/cinj/joe@pixolut.com/Client Folders/Connectable/Story-notes-analytics.txt",
-		"/Users/cinj/joe@pixolut.com/Client Folders/Connectable/Connectable 8 showcase notes.txt",
-		"/Users/cinj/joe@pixolut.com/Client Folders/Connectable/Connectable Notes - Apr.txt",
-		"/Users/cinj/joe@pixolut.com/Client Folders/Connectable/Grooming.txt"
+		"/Users/cinj/Desktop/NOTES.txt"
 	],
 	"find":
 	{
@@ -349,7 +440,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 8,
 			"sheets":
 			[
 				{
@@ -377,7 +468,291 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Z/joe@pixolut.com/Marketing/STUDIO/lead magnet images/copy.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21384,
+								21384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4347.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"auto_name": "bbs.thenexusbbs.com:23",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Z/joe@pixolut.com/Personal/_COMPUTERS/bbs-list-full_Apr_17.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184802,
+								184802
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 189354.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								774,
+								774
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "//rackstation/video/installers/Print Server/Setup.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								898,
+								898
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Y/babun-install/babun-1.2.0/install.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "//rackstation/video/pitch.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Z/joe@pixolut.com/Personal/_COMPUTERS/bbs-list-short_Apr_17.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								795,
+								795
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 730.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "yabonza/deploy-sit",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
 					"type": "text"
 				}
 			]
